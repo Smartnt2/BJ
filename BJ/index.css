@@ -1,0 +1,25 @@
+body {
+    font-family: 'Comic Sans';
+    font-weight: bold;
+    text-align: center;
+    background-image: url(images/table.png);
+}
+ 
+h1 {
+    color: goldenrod;
+}
+
+
+button {
+    background-color: goldenrod;
+    color: green;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    width: 150px;
+}
+
+
+.errorMessage {
+    visibility: hidden;
+}
